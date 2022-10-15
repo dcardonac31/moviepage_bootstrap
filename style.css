@@ -1,0 +1,29 @@
+body{
+    color: black;
+}
+
+.height-image {
+    height: 500px;
+}
+
+.bg-carrousel {
+    background-color: black;
+}
+
+.cards {
+    padding:30px;
+    display: flex; 
+}
+
+.card {
+    margin: 20px;
+}
+
+iframe {
+    width: 100%;
+    height: 450px;
+}
+
+.gallery {
+    display: flex;
+}
