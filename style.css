@@ -2,6 +2,10 @@ body{
     color: black;
 }
 
+h1{
+    padding: 20px;
+}
+
 .height-image {
     height: 500px;
 }
@@ -26,4 +30,31 @@ iframe {
 
 .gallery {
     display: flex;
+}
+
+.actor {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.actores {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.actor-info {
+    margin: 10px;
+}
+
+.actor-foto {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.resumen{
+    margin: 10px;
+    padding-left: 10px;
 }
